@@ -2,7 +2,7 @@
 
  * Apaixonado por tecnologia e movido a desafios
  * Cursando Análise e Desenvolvimento de Sistemas na FATEC Rubens Lara
- * Entusiasta na programação web
+ * Aspirante a programador
  * Atualmente aprendendo Ruby
  
  
